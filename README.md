@@ -5,7 +5,7 @@ An interactive, chat-based agent that answers natural language questions grounde
 ## Live Demo
 
 Deploy on Streamlit Community Cloud for a public URL accessible without login:
-Live URL (v1): censusagentv1.streamlit.app
+Live URL (v1): https://censusagentv1.streamlit.app/
 
 ## Architecture
 
